@@ -65,3 +65,4 @@ User selects an option
 System performs the selected transaction
 
 Loop continues until user exits
+<img width="1536" height="1024" alt="ChatGPT Image Dec 10, 2025, 12_16_15 AM" src="https://github.com/user-attachments/assets/85d4670c-a64f-457d-a871-98a44fc020b2" />

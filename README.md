@@ -1,4 +1,4 @@
-✨ ATMLibrarySystem – Java ATM Simulation
+✨ ATM Library System – Java
 
 A clean, console-based ATM system built using Core Java & OOP principles. Simple. Secure. Smart.
 
